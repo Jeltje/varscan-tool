@@ -1,0 +1,16 @@
+{
+  "NORMAL_BAM": {
+    "path":"https://dcc.icgc.org/api/v1/download?fn=/PCAWG/reference_data/data_for_testing/HCC1143_ds/HCC1143_BL.bam",
+    "class": "File"
+  },
+  "TUMOR_BAM": {
+    "path":"https://dcc.icgc.org/api/v1/download?fn=/PCAWG/reference_data/data_for_testing/HCC1143_ds/HCC1143.bam",
+    "class": "File"
+  },
+  "GENO_FA_GZ": {
+    "path": "https://dcc.icgc.org/api/v1/download?fn=/PCAWG/reference_data/pcawg-bwa-mem/genome.fa.gz",
+    "class": "File"
+  },
+  "INDEL_OUTVCF": "indel.vcf",
+  "SNP_OUTVCF": "snp.vcf"
+}
